@@ -1,2 +1,2 @@
 # LATrafficCollisions
-Traffic Collisions within Los Angeles Pre and During COVID-19
+## Traffic Collisions within Los Angeles Pre and During COVID-19
