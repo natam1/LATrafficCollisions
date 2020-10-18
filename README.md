@@ -6,7 +6,7 @@ Traffic Collisions within Los Angeles Pre and During COVID-19
    
    Previous work has shown that traffic incidents occur in a small percentage of the overall road network typically occuring in lower-income communitites. However, since the start of the COVID stay-at-home order, we are curious to see if this relationship between traffic accidents and locations has changed when compared to pre-COVID levels. This analysis is critical, especially with some slow streets becoming permanent, to ensure the safety and efficiency for pedestrians and cyclists. We hope to visualize the difference between collision severity, whether the collision involved a pedestrian or cyclist, and number of collisions per month (or week) against demographics in the county. 
   
-  For this analysis we are focusing on Los Angeles County, separtating by zipcodes for countywide maps, and separating by census tract when displaying specific parts of the county. Using these spatial scopes will allow us to factor in demographics to determine if there are any relationships. 
+  For this analysis we are focusing on Los Angeles County, separtating by zipcodes for countywide maps, and separating by census tract when displaying specific parts of the county. Using these spatial scopes will allow us to factor in demographics to determine if there are any relationships. The maps will use demographics as a base layer, using a color gradient to demonstrate demographical differences, and pinpoint locations of collisions using a three demensional component. 
 
 ## Data
 As for data sources,  
@@ -19,3 +19,4 @@ As for data sources,
     This dataset allows us to crosscheck demographics with the collision data. 
 
 ## Conclusion
+With this data, we expect to confirm the realtionship between traffic collisions and lower-income and disadvantaged communties. We also predict a slight increase in collisions due to cars traveling at higher speeds and more pedestrians and cyclists. As part of this prediction, we hope to gain an understanding of whether designated slow streets can improve safety by reducing collisions or if the number of incidents near designated slow streets will increase (approx. 1/2 mile to 1 mile radius). Using our findings, we hope to provide policy reccomendations to create a safer active transportation network.
