@@ -1,9 +1,9 @@
 # Week3 
 
-Census data 
+## Census Data 
   - populations 
   - density
   - race
   - average commute time
-  - vehicles avaliable (Renter-occupied units)
+  - vehicles available (Renter-occupied units)
   - means of transportation to work
