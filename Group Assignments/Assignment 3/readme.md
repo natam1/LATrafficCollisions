@@ -1,7 +1,7 @@
 # Week 4: Mini Group Assignment
 
 ## Project Title: Analyzing Traffic Collisions Pre and During the COVID-19 Pandemic 
-## Link to Proposal: 
+## Link to Proposal: [Located here](https://github.com/natam1/LATrafficCollisions)
 ## Roles: 
 ### Natalie:
 
