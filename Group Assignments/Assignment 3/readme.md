@@ -1,9 +1,19 @@
-# Week3 
+# Week 4: Mini Group Assignment
 
-## Census Data 
-  - populations 
-  - density
-  - race
-  - average commute time
-  - vehicles available (Renter-occupied units)
-  - means of transportation to work (workers 16 years and over)
+## Project Title: Analyzing Traffic Collisions Pre and During the COVID-19 Pandemic 
+## Link to Proposal: 
+## Roles: 
+### Natalie:
+
+### Karen:
+
+Roles (only for groups): Give each team member a title, and define what role each team member will play, and how each person plans to contribute to the project. While this may be subject to change, it is a good idea to define this early in the project to clarify "who is doing what."
+
+## Status Update:
+Report on the general mood of the team, and provide details as to what is working, and what is not.
+
+## Data Update: 
+Provide a short narrative on where you are with the data sources you will incorporate in your project. Provide links as necessary.
+
+## Concerns: 
+There should be a lot to be concerned about at this phase of the project. List those concerns and classify them as "Major concerns" and/or "Minor concerns."
