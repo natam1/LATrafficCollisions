@@ -15,7 +15,13 @@ Report on the general mood of the team, and provide details as to what is workin
 Overall, the mood is buzzy. We have a good idea of what we'd like the project to be, and we're piecing it together day by day. We communicate well, and the workload is evenly divided between the two of us. 
 
 ## Data Update: 
-Provide a short narrative on where you are with the data sources you will incorporate in your project. Provide links as necessary.
+Provide a short narrative on where you are with the data sources you will incorporate in your project. Provide links as necessary
+
+
+We have located a dataset, updated in October of this year, that contains weekly collsion data. 
+
+Traffic Accidents by date [Located here](https://data.lacity.org/A-Safe-City/Traffic-Accidents-by-date/2mzm-av8t)
+
 
 ## Concerns: 
 There should be a lot to be concerned about at this phase of the project. List those concerns and classify them as "Major concerns" and/or "Minor concerns." <br>
