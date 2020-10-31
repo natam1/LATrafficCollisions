@@ -20,7 +20,7 @@ Provide a short narrative on where you are with the data sources you will incorp
 We have located a dataset, updated in October of this year, that contains weekly collision data. 
 * Traffic Accidents by Date: [Located here](https://data.lacity.org/A-Safe-City/Traffic-Accidents-by-date/2mzm-av8t) <Br>
 
-We also plan to use Census Data, taken from Social Explorer. We will use the data to analyze census tracts in Los Angeles, CA.
+We also plan to use Census Data, taken from [Social Explorer](https://www.socialexplorer.com/tables/ACS2018_5yr) . We will use the data to analyze census tracts in Los Angeles, CA.
 
 
 ## Concerns: 
