@@ -32,3 +32,4 @@ There should be a lot to be concerned about at this phase of the project. List t
 * Still finalizing what maps/charts we would like to illustrate for our midterm project. We have a lot of different ideas, but need to be able to apply them and have a map/chart as a result (minor concern) <Br>
 * Need to finalize/trim data sources and if working separately/tag-teaming, may need to use same file (minor concern) <Br>
 * Need to review the rubric/items for Final (minor concern)
+* Overlaying traffic collision data with census tract shape file
