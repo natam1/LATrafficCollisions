@@ -12,15 +12,15 @@ Roles (only for groups): Give each team member a title, and define what role eac
 ## Status Update:
 Report on the general mood of the team, and provide details as to what is working, and what is not. <Br>
 
-Overall, the mood is buzzy. We have a good idea of what we'd like the project to be, and we're piecing it together day by day. We communicate well, and the workload is evenly divided between the two of us. 
+Overall, the mood is buzzy. We have a good idea of what we'd like the project to be, and we're piecing it together day by day. We communicate well, and the workload is evenly divided between the two of us. We are in the midst of finalizing our data sources and the charts/maps that we would like to create.
 
 ## Data Update: 
 Provide a short narrative on where you are with the data sources you will incorporate in your project. Provide links as necessary
 
+We have located a dataset, updated in October of this year, that contains weekly collision data. 
+* Traffic Accidents by Date: [Located here](https://data.lacity.org/A-Safe-City/Traffic-Accidents-by-date/2mzm-av8t) <Br>
 
-We have located a dataset, updated in October of this year, that contains weekly collsion data. 
-
-Traffic Accidents by date [Located here](https://data.lacity.org/A-Safe-City/Traffic-Accidents-by-date/2mzm-av8t)
+We also plan to use Census Data, taken from Social Explorer. We will use the data to analyze census tracts in Los Angeles, CA.
 
 
 ## Concerns: 
