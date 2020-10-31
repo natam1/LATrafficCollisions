@@ -3,24 +3,27 @@
 ## Project Title: Analyzing Traffic Collisions Pre and During the COVID-19 Pandemic 
 ## Link to Proposal: [Located here](https://github.com/natam1/LATrafficCollisions)
 ## Roles: 
-### Natalie:
+### Natalie: Pandemic Crash Professional (COVID-19 Data, 3/19/2020 onwards)
+- Analyze traffic data
+- Create maps/charts
+- Conduct data exploration for variables during COVID-19
 
-### Karen:
+### Karen: Collision Historian (Pre-COVID-19 Data, up until 3/19/2020)
+- Analyze traffic data
+- Create maps/charts
+- Conduct data exploration for variables pre-COVID-19
 
-Roles (only for groups): Give each team member a title, and define what role each team member will play, and how each person plans to contribute to the project. While this may be subject to change, it is a good idea to define this early in the project to clarify "who is doing what."
+Each group member will develop and create a series of charts/maps for their given data assignment (pre/during COVID-19). 
 
 ## Status Update:
-Report on the general mood of the team, and provide details as to what is working, and what is not. <Br>
-
-Overall, the mood is buzzy. We have a good idea of what we'd like the project to be, and we're piecing it together day by day. We communicate well, and the workload is evenly divided between the two of us. We are in the midst of finalizing our data sources and the charts/maps that we would like to create.
+Overall, the mood is buzzy. We have a good idea of what we'd like the project to be, and we're piecing it together day by day. We communicate well, and the workload is evenly divided between the two of us. We are in the midst of finalizing our data sources and the charts/maps that we would like to create. 
 
 ## Data Update: 
-Provide a short narrative on where you are with the data sources you will incorporate in your project. Provide links as necessary
 
 We have located a dataset, updated in October of this year, that contains weekly collision data. 
 * Traffic Accidents by Date: [Located here](https://data.lacity.org/A-Safe-City/Traffic-Accidents-by-date/2mzm-av8t) <Br>
 
-We also plan to use Census Data, taken from [Social Explorer](https://www.socialexplorer.com/tables/ACS2018_5yr) . We will use the data to analyze census tracts in Los Angeles, CA.
+We also plan to use Census Data, taken from Social Explorer. We will use the data to analyze census tracts in Los Angeles, CA.
 
 
 ## Concerns: 
