@@ -2,10 +2,12 @@
 Traffic Collisions within the City of Los Angeles Pre and During the COVID-19 Pandemic
 
 ## Research Questions
-How has the rate of traffic collisions changed from pre-COVID-19 to during COVID-19 times? 
+How has traffic collisions change as a result of the COVID-19 pandemic?
 * Has the rate of traffic collisions increased since COVID-19 began? 
 * Are these collisions occuring in the same areas or spreading to new areas?
-  
+* Has the severity of the collisions changed?
+* How has the type of collisions changed?
+
 ## Background
   In March of 2020, the novel coronavirus spread throughout the country, resulting in widespread stay-at-home orders. As the stay-at-home order continued, people began searching for ways to move about in a socially distant manner, including active transportation modes, such as walking and biking. The creation of slow streets (residential streets that have been marked with temporary barricades and signage to reduce traffic flow) encouraged active transportation by designating safer areas that were car-free. With this mode shift occuring and combined with the stay-at-home orders encouraging people to work from home if possible, there was a decrease in daily commuters. However, with fewer cars on the road, data has shown that there has been an increase in reckless driving, such as speeding. Together, these transportation shifts create the possibility for greater traffic collisions between vehicles and pedestrians, and cyclists, leading to our research questions noted above.
    
@@ -24,4 +26,4 @@ As for data sources,
     This dataset allows us to crosscheck L.A. neighborhoods with the collision data. 
 
 ## Conclusion
-With this data, we expect to confirm the relationship between traffic collisions and lower-income and disadvantaged communties. We also predict a slight increase in collisions due to cars traveling at higher speeds and the increase of pedestrians/cyclists. Through this project, we hope to gain an understanding of whether designated slow streets can improve safety by reducing collisions or if the number of incidents near designated slow streets will increase (approx. 1/2 mile to 1 mile radius). Using our findings, we hope to provide policy recommendations to create a safer active transportation network.
+With this data, we expect to confirm the relationship between traffic collisions and lower-income and disadvantaged communties. We also predict a slight increase in collisions due to cars traveling at higher speeds and the increase of pedestrians/cyclists. We predict collisions to spread through new areas. We also predict the severity of the collisions to increase, and the type of collisions to shift. Through this project, we hope to gain an understanding of whether designated slow streets can improve safety by reducing collisions or if the number of incidents near designated slow streets will increase (approx. 1/2 mile to 1 mile radius). Using our findings, we hope to provide policy recommendations to create a safer active transportation network.
