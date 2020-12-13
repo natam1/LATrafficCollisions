@@ -14,7 +14,8 @@ Syntax highlighted code block
 # Header 1
 ## Interactive Map
 
-https://jupyter.idre.ucla.edu/user/natalielamberg@gmail.com/view/up206a/Weeks/Midterm/traffic_rates1_during-COVID.html
+https://natam1.github.io/LATrafficCollisions/Group%20Assignments/Midterm/traffic_rates1_during-COVID.html
+
 
 ### Header 3
 
