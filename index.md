@@ -12,7 +12,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-## Header 2
+## Interactive Map
+
+https://jupyter.idre.ucla.edu/user/natalielamberg@gmail.com/view/up206a/Weeks/Midterm/traffic_rates1_during-COVID.html
+
 ### Header 3
 
 - Bulleted
