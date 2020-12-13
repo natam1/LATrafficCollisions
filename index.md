@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Interactive Map 
 
-https://natam1.github.io/LATrafficCollisions/GroupAssignments/Midterm/traffic_rates1_during-COVID.html
+https://natam1.github.io/LATrafficCollisions/traffic_rates1_during-COVID.html
 
 
 ### Markdown
