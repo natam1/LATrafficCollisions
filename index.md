@@ -4,6 +4,11 @@ You can use the [editor on GitHub](https://github.com/natam1/LATrafficCollisions
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## Interactive Map 
+
+https://natam1.github.io/LATrafficCollisions/Group%20Assignments/Midterm/traffic_rates1_during-COVID.html
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -12,10 +17,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
-## Interactive Map
-
-https://natam1.github.io/LATrafficCollisions/Group%20Assignments/Midterm/traffic_rates1_during-COVID.html
-
+## Header 2
 
 ### Header 3
 
