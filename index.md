@@ -8,6 +8,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 https://natam1.github.io/LATrafficCollisions/traffic_rates1_during-COVID.html
 
+https://natam1.github.io/LATrafficCollisions/collision_types_compare.html
+
+
+https://natam1.github.io/LATrafficCollisions/injury_types_compare.html
+
+
 
 ### Markdown
 
