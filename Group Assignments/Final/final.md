@@ -26,11 +26,11 @@ For this analysis we are focusing on the City of Los Angeles, separating by neig
 
 ### Data Sources
 
-City of L.A. Traffic Collisions 2010 to Present
+#### City of L.A. Traffic Collisions 2010 to Present
 
 This dataset allows us to track traffic collisions in the City of Los Angeles. We were able to use dates from 1/1/2019-3/18/2020 as Pre-COVID-19 data, and 3/19/2020 onwards as COVID-19 data. (The Stay-at-Home order was executed on March 19th, 2020.)
 
-City of L.A. Neighborhoods
+#### City of L.A. Neighborhoods
 
 This dataset allows us to overlay the L.A. neighborhoods with the collision data.
 
