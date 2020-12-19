@@ -1,0 +1,10 @@
+MO_Code,MO_Description,Number_of_Occurrences,COVID_Days,Average_Daily_Rate
+3003,Vehicle vs Pedestrian ,1517,257,5.90
+3004,Vehicle vs Vehicle ,10909,257,42.45
+"3008, 3016",Vehicle vs Bike,813,257,3.16
+3018,Bike vs Other,15,257,0.06
+3024,Severe Injury,664,257,2.58
+3025,Visible Injury,2690,257,10.47
+3026,Complaint of Injury,6245,257,24.30
+3027,Fatal Injury,152,257,0.59
+3028,Non-Injury,3583,257,13.94
