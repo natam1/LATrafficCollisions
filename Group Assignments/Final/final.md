@@ -34,14 +34,5 @@ City of L.A. Neighborhoods
 
 This dataset allows us to overlay the L.A. neighborhoods with the collision data.
 
-We performed the following analyses for both pre-COVID and during COVID time periods:
-
-- Assess where the highest rate of daily traffic collisions was occurring (i.e. what LA neighborhood)
-
-- Track the types of collisions occurring (including: Vehicle vs Pedestrian, Vehicle vs Vehicle, Vehicle vs Bike, & Bike vs Other)
-
-- Track the severities of injury (including: Severe Injury, Visible Injury, Complaint of Injury, Fatal Injury, & Non-Injury)
-
-
 
 
